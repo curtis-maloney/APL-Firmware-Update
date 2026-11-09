@@ -1,0 +1,4 @@
+1.0.8 | APL Standard | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.8.bin | PASTE_SHA256_HERE | Wi-Fi updates
+1.0.8 | APL GH | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.8.bin | PASTE_SHA256_HERE | Wi-Fi updates
+1.0.8 | APL PF | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.8.bin | PASTE_SHA256_HERE | Wi-Fi updates
+1.0.8 | APL HD | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.8.bin | PASTE_SHA256_HERE | Wi-Fi updates
