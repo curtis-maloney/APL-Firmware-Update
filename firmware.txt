@@ -1,4 +1,1 @@
-1.0.9 | APL V3 Standard | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.9.bin | PASTE_SHA256_HERE | Wi-Fi updates
-1.0.9 | APL V3 GH | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.9.bin | PASTE_SHA256_HERE | Wi-Fi updates
-1.0.9 | APL V3 PF | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.9.bin | PASTE_SHA256_HERE | Wi-Fi updates
-1.0.9 | APL V3 HD | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.9.bin | PASTE_SHA256_HERE | Wi-Fi updates
+1.0.10 | APL V3 Standard | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/apl-standard-1.0.10.bin | PASTE_SHA256_HERE | Wi-Fi updates
