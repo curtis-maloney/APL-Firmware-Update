@@ -1,1 +1,1 @@
-1.0.12 | APL V3 Standard | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/APL_V3_Standard_1.0.12.bin | 7B01ACEA1E1C0FDA50957FE330EDA9D66A4E82FAE9AA1CD8E0C65EABABFFFC95 | Wi-Fi updates
+1.0.13 | APL V3 Standard | https://raw.githubusercontent.com/curtis-maloney/APL-Firmware-Update/main/APL_V3_Standard_1.0.13.bin | 10A55AF4E3EEB02881431C5D78CA2A7DA1C03CA4604D7492B7129250C2AFBEFF | Wi-Fi updates
